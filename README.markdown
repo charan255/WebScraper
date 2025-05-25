@@ -31,7 +31,7 @@ A Python web scraper that extracts organization details from Google Summer of Co
 ## Usage
 1. Run the script to scrape GSoC organization data:
    ```bash
-   python scraper.py
+   python webscraper.py
    ```
 2. The script will:
    - Fetch organization data for each year from 2018 to 2024.
@@ -72,8 +72,6 @@ Contributions are welcome! Feel free to submit issues or pull requests to improv
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - Thanks to Google Summer of Code for providing the API.
